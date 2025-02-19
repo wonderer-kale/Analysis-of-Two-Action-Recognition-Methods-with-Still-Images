@@ -1,4 +1,4 @@
-# Analysis of Two Cction Recognition Methods with Still Images
+# Analysis of Two Action Recognition Methods with Still Images
 
 ### Method
 - Method 1: Y. -W. Chao et al., "[Learning to Detect Human-Object Interactions](https://arxiv.org/pdf/1702.05448)," 2018
