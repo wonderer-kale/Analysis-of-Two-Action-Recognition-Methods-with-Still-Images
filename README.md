@@ -9,3 +9,6 @@
 2. D. Girish, V. Singh and A. Ralescu, "[Understanding action recognition in still images](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w23/Girish_Understanding_Action_Recognition_in_Still_Images_CVPRW_2020_paper.pdf)," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pp. 1523-1529, 2020, doi: 10.1109/CVPRW50498.2020.00193.
 3. T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan,P. Doll´ar, and C. L. Zitnick, "[Microsoft coco: Common objects incontext](https://arxiv.org/pdf/1405.0312)," in Proceedings of ECCV, pp. 740–755, 2014.
 4. COCO dataset website: https://cocodataset.org/#home
+
+### Explanation video
+link: <https://www.youtube.com/watch?v=FpQ54E1YB_k&ab_channel=%E6%9E%97%E6%82%A6%E6%8F%9A>
